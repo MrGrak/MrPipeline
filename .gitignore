@@ -1,0 +1,18 @@
+
+
+## keep repo size small, only track code/game related changes
+
+# User-specific files
+*.suo
+*.tmp
+*.TMP
+*.manifest
+
+# very large folders to ignore
+MrPipeline/MrPipeline/bin/
+MrPipeline/MrPipeline/obj/
+MrPipeline/MrPipeline/Properties/
+
+MrPipeline/MrPipeline/Content/bin/
+MrPipeline/MrPipeline/Content/obj/
+
